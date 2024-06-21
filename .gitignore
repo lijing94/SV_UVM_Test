@@ -1,0 +1,15 @@
+.dvt/
+.project
+csrc/
+dvt_build.log
+novas.conf
+novas.rc
+novas_dump.log
+simv
+simv.daidir/
+simv.vdb/
+tb.fsdb
+ucli.key
+vc_hdrs.h
+verdiLog/
+
